@@ -1,4 +1,6 @@
-# FSJS Project Week 1
+# Loaner Laptop Tracker
+
+Need to update ReadMe file. 
 
 ## Install NodeJS
 
